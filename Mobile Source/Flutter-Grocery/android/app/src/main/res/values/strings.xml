@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flutter Grocery</string>
+    <string name="facebook_app_id">1316734058679794</string>
+    <!-- <string name="facebook_app_id">000000000000000</string> -->
+
+    <string name="fb_login_protocol_scheme">1316734058679794</string>
+    <!-- <string name="fb_login_protocol_scheme">fb000000000000000</string> -->
+
+    <string name="android__admob_ads_id_key">ca-app-pub-8907881762519005~8622580537</string>
+    <!-- <string name="android__admob_ads_id_key">ca-app-pub-0000000000000000~0000000000</string> -->
+    
+</resources>

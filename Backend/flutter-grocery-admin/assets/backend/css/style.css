@@ -1,0 +1,159 @@
+/*start sidebar color*/
+aside > .sidebar {
+  background-color: #343a40;
+}
+
+aside > .brand-link {
+  background-color: #343a40;
+}
+
+ul > li > .nav-link > .fa-caret-right {
+  padding-left: 20px;
+}
+/*end sidebar color*/
+
+/*start login background image*/
+body#main {
+    background: url('../../img/login_background.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+ }
+ /*end background image*/
+
+div > .container-fluid > .content-wrapper {
+  background-color: #ffff;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+nav.border-bottom  {
+  /*background-color: #757b82;*/
+}
+
+nav > .navbar-nav > .nav-link {
+  font-size: 20px;
+  /*font-style: italic;*/
+  font-weight: bold;
+}
+
+.crop {
+    width: 100px;
+    height: 80px;
+    overflow: hidden;
+    border-radius: 10%;
+}
+
+.crop img {
+    width: 400px;
+    height: 300px;
+    margin: -75px 0 0 -100px;
+}
+
+.wrapper, body, html {
+    font-size: 13px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+
+.brand-text {
+    font-size: 20px;
+}
+
+.navbar-nav>.user-menu .user-image {
+    float: left;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    margin-right: 10px;
+    margin-top: -2px;
+}
+
+.nav-container {
+      background-color: #465A61;
+}
+
+.navbar-nav .nav-item .nav-link {
+  color: #e0dbdb;
+  font-weight: 600;
+  font-size: 14px;
+
+}
+
+.navbar-nav .nav-item .nav-link:hover{
+  color: red;
+}
+
+
+.img-circle {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.error {
+    color: red;
+}
+
+span.fa.fa-smile-o {
+  padding: 5px 20px 20px 10px;
+  font-size: 160px;
+  float: left;
+}
+
+span.fa.fa-frown-o {
+  padding: 5px 20px 20px 10px;
+  font-size: 160px;
+  float: left;
+}
+
+.login-page {
+  width: 360px;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.form1 {
+  position: relative;
+  background: #FFFFFF;
+  max-width: 360px;
+  margin: 0 auto 100px;
+  padding: 45px;
+   text-align: center;
+}
+.form1 input {
+  outline: 0;
+  background: #f2f2f2;
+  width: 100%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+.form1 button {
+  text-transform: uppercase;
+  outline: 0;
+  background: #4CAF50;
+  width: 100%;
+  border: 0;
+  padding: 15px;
+  color: #FFFFFF;
+  font-size: 14px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+  cursor: pointer;
+}
+.form1 button:hover,.form button:active,.form button:focus {
+  background: #43A047;
+}
+.form1 .message {
+  margin: 15px 0 0;
+  color: #b3b3b3;
+  font-size: 12px;
+}
+.form1 .message a {
+  color: #4CAF50;
+  text-decoration: none;
+}
